@@ -2,10 +2,10 @@
 Shopping list using the MERN stack
 
 
-#Website 
+# Website 
 https://hudson-crown-56881.herokuapp.com/
 
-#Getting Started
+# Getting Started
 First just
 git clone https://github.com/log1NVolcom/MERN-shopping-list
 then
